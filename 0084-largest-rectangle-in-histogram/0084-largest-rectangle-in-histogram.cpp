@@ -8,7 +8,6 @@ public:
                 int idx = stk.top(); stk.pop();
                 int leftSmallerIdx = stk.empty() ? -1 : stk.top();
                 ans = max(ans, heights[idx] * (i - leftSmallerIdx - 1));
-                cout << ans << " ";
             }
             stk.push(i);
         }
@@ -16,7 +15,6 @@ public:
             int idx = stk.top(); stk.pop();
             int leftSmallerIdx = stk.empty() ? -1 : stk.top();
             ans = max(ans, heights[idx] * (n - leftSmallerIdx - 1));
-            cout << ans << " ";
         }
         return ans;
     }
