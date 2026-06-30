@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/SatwikMushini/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/SatwikMushini/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SatwikMushini/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatwikMushini/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/SatwikMushini/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SatwikMushini/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SatwikMushini/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/SatwikMushini/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatwikMushini/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
 | ------- |
