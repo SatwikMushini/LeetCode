@@ -11,8 +11,7 @@ public:
                 if(mpp[s[left]] == 1)mpp.erase(s[left]);
                 else mpp[s[left]]--; 
                 left++;
-            }
-            cout << cnt <<" "; 
+            } 
         }
         return cnt;
     }
