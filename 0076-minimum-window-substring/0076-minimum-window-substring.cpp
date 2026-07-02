@@ -1,28 +1,24 @@
 class Solution {
 public:
-    bool check(vector<int>& sfreq, vector<int>& tfreq, string t){
-        for(int i = 0; i < 128; i++){
-            if(sfreq[i] < tfreq[i])return false;
-        }
-        return true;
-    }
     string minWindow(string s, string t) {
         if(s.size() < t.size())return "";
-        vector<int>tfreq(128, 0);
+        unordered_map<int,int> mpp;
         for(auto x : t){
-            tfreq[x]++;
+            mpp[x]++;
         }
-        vector<int>sfreq(128, 0);
         int left = 0;
         int minWindow = 1e5, stIdx = -1;
+        int cnt = 0;
         for(int i = 0; i < s.size(); i++){
-            sfreq[s[i]]++;
-            while(check(sfreq, tfreq, t)){
+            mpp[s[i]]--;
+            if(mpp[s[i]] >= 0)cnt++;
+            while(cnt == t.size()){
                 if(i - left + 1 < minWindow){
                     stIdx = left;
                     minWindow = i - left + 1;
                 }
-                sfreq[s[left]]--;
+                mpp[s[left]]++;
+                if(mpp[s[left]] > 0)cnt--;
                 left++;
             }
         }
