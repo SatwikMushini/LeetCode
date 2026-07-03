@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SatwikMushini/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatwikMushini/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/SatwikMushini/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SatwikMushini/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/SatwikMushini/LeetCode/tree/master/0402-remove-k-digits) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SatwikMushini/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Matrix
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/SatwikMushini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+## Sorting
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SatwikMushini/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
