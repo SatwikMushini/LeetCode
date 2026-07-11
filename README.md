@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SatwikMushini/LeetCode/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/SatwikMushini/LeetCode/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SatwikMushini/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SatwikMushini/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/SatwikMushini/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SatwikMushini/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/SatwikMushini/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
