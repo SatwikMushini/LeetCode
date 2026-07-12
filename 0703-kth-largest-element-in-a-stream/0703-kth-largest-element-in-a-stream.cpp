@@ -4,16 +4,17 @@ public:
     priority_queue<int, vector<int>, greater<int>> pq;
     KthLargest(int k, vector<int>& nums) {
         kk = k;
-        sort(nums.rbegin(), nums.rend());
-        for(int i = 0; i < nums.size(); i++){
-            if(i == kk)break;
-            pq.push(nums[i]);
+        for(auto x : nums){
+            pq.push(x);
+            if(pq.size() > kk)pq.pop();
         }
     }
     
     int add(int val) {
-        pq.push(val);
-        while(pq.size() > kk){pq.pop();}
+        if(pq.size() < kk || pq.top() < val){
+            pq.push(val);
+            if(pq.size() > kk)pq.pop();
+        }
         return pq.top();
     }
 };
