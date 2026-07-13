@@ -2,8 +2,6 @@ class Solution {
 public:
     void run(vector<int>& arr, int i, vector<vector<int>>& nums){
         nums.push_back(arr);
-        if(i == arr.size() - 1)return;
-        
         for(int k = i; k < arr.size()-1; k++){
             for(int j = k+1; j < arr.size(); j++){
                 swap(arr[k], arr[j]);
