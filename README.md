@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SatwikMushini/LeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/SatwikMushini/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/SatwikMushini/LeetCode/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SatwikMushini/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SatwikMushini/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0216-combination-sum-iii](https://github.com/SatwikMushini/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/SatwikMushini/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/SatwikMushini/LeetCode/tree/master/0046-permutations) |
 | [0216-combination-sum-iii](https://github.com/SatwikMushini/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Tree
 |  |
