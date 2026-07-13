@@ -196,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SatwikMushini/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/SatwikMushini/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
