@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SatwikMushini/LeetCode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/SatwikMushini/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/SatwikMushini/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SatwikMushini/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/SatwikMushini/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/SatwikMushini/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/SatwikMushini/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SatwikMushini/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SatwikMushini/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SatwikMushini/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SatwikMushini/LeetCode/tree/master/0046-permutations) |
 | [0216-combination-sum-iii](https://github.com/SatwikMushini/LeetCode/tree/master/0216-combination-sum-iii) |
