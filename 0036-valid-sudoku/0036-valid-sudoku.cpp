@@ -8,7 +8,7 @@ public:
         int boxRow = i / 3 * 3, boxCol = j / 3 * 3;
         for(int x = boxRow; x < boxRow+3; x++){
             for(int y = boxCol; y < boxCol+3; y++){
-                if(x != i && y != j && board[x][y] == board[i][j])return false;
+                if((x != i || y != j) && board[x][y] == board[i][j])return false;
             }
         }
         return true;
