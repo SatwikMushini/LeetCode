@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/SatwikMushini/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/SatwikMushini/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SatwikMushini/LeetCode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/SatwikMushini/LeetCode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SatwikMushini/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SatwikMushini/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0216-combination-sum-iii](https://github.com/SatwikMushini/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SatwikMushini/LeetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/SatwikMushini/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/SatwikMushini/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/SatwikMushini/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SatwikMushini/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/SatwikMushini/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SatwikMushini/LeetCode/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/SatwikMushini/LeetCode/tree/master/0846-hand-of-straights) |
