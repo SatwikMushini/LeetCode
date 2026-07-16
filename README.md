@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatwikMushini/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/SatwikMushini/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SatwikMushini/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatwikMushini/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/SatwikMushini/LeetCode/tree/master/0735-asteroid-collision) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatwikMushini/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SatwikMushini/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SatwikMushini/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SatwikMushini/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatwikMushini/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/SatwikMushini/LeetCode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/SatwikMushini/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SatwikMushini/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatwikMushini/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -237,8 +241,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SatwikMushini/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/SatwikMushini/LeetCode/tree/master/0455-assign-cookies) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatwikMushini/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SatwikMushini/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatwikMushini/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
