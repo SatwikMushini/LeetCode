@@ -3,19 +3,14 @@ public:
     bool isValid(int i, int j, int m, int n){
         return (i >= 0 && i < m && j >= 0 && j < n);
     }
-    void bfs(int i, int j, vector<vector<char>>& grid, vector<vector<bool>>& vis){
+    void dfs(int i, int j, vector<vector<char>>& grid, vector<vector<bool>>& vis){
         int m = grid.size(), n = grid[0].size();
-        queue<pair<int,int>>q;
-        q.push({i,j});
-        while(!q.empty()){
-            auto [x, y] = q.front(); q.pop();
-            if(!isValid(x,y,m,n) || grid[x][y] == '0' || vis[x][y])continue;
-            vis[x][y] = true;
-            q.push({x-1, y});
-            q.push({x, y+1});
-            q.push({x+1, y});
-            q.push({x, y-1});
-        }
+        if(!isValid(i,j,m,n) || grid[i][j] == '0' || vis[i][j])return;
+        vis[i][j] = true;
+        dfs(i-1, j, grid, vis);
+        dfs(i, j+1, grid, vis);
+        dfs(i+1, j, grid, vis);
+        dfs(i, j-1, grid, vis);
     }
     int numIslands(vector<vector<char>>& grid) {
         int m = grid.size(), n = grid[0].size();
@@ -25,7 +20,7 @@ public:
             for(int j = 0; j < n; j++){
                 if(grid[i][j] == '1' && !vis[i][j]){
                     islands++;
-                    bfs(i,j,grid,vis);
+                    dfs(i,j,grid,vis);
                 }
             }
         }
