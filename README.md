@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/SatwikMushini/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SatwikMushini/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/SatwikMushini/LeetCode/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/SatwikMushini/LeetCode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/SatwikMushini/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/SatwikMushini/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/SatwikMushini/LeetCode/tree/master/0455-assign-cookies) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/SatwikMushini/LeetCode/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/SatwikMushini/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/SatwikMushini/LeetCode/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/SatwikMushini/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Queue
 |  |
@@ -261,4 +263,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SatwikMushini/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatwikMushini/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SatwikMushini/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SatwikMushini/LeetCode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SatwikMushini/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
