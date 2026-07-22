@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SatwikMushini/LeetCode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/SatwikMushini/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/SatwikMushini/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/SatwikMushini/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SatwikMushini/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SatwikMushini/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SatwikMushini/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SatwikMushini/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/SatwikMushini/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/SatwikMushini/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/SatwikMushini/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/SatwikMushini/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1162-as-far-from-land-as-possible](https://github.com/SatwikMushini/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 ## Simulation
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SatwikMushini/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SatwikMushini/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/SatwikMushini/LeetCode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/SatwikMushini/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SatwikMushini/LeetCode/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/SatwikMushini/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/SatwikMushini/LeetCode/tree/master/0860-lemonade-change) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SatwikMushini/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/SatwikMushini/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SatwikMushini/LeetCode/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/SatwikMushini/LeetCode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/SatwikMushini/LeetCode/tree/master/1288-remove-covered-intervals) |
