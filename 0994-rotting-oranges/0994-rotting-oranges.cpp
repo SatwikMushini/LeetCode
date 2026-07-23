@@ -7,36 +7,44 @@ public:
         int m = grid.size(), n = grid[0].size();
         queue<pair<int,int>>q;
         
+        int fresh = 0;
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
-                if(grid[i][j] == 2){
-                    grid[i][j] = 1;
+                if(grid[i][j] == 1)fresh++;
+                else if(grid[i][j] == 2){
                     q.push({i,j});
                 }
             }
         }
 
-        int level = -1;
+        int minutes = 0;
         while(!q.empty()){
             int qs = q.size();
             while(qs--){
                 auto [x,y] = q.front(); q.pop();
-                if(!isValid(x,y,m,n) || grid[x][y] == 0 || grid[x][y] == 2)continue;
-                grid[x][y] = 2;
-                q.push({x-1,y});
-                q.push({x,y+1});
-                q.push({x+1,y});
-                q.push({x,y-1});
+                if(isValid(x-1,y,m,n) && grid[x-1][y] == 1){
+                    grid[x-1][y] = 2;
+                    q.push({x-1,y});
+                    fresh--;
+                }
+                if(isValid(x,y+1,m,n) && grid[x][y+1] == 1){
+                    grid[x][y+1] = 2;
+                    q.push({x,y+1});
+                    fresh--;
+                }
+                if(isValid(x+1,y,m,n) && grid[x+1][y] == 1){
+                    grid[x+1][y] = 2;
+                    q.push({x+1,y});
+                    fresh--;
+                }
+                if(isValid(x,y-1,m,n) && grid[x][y-1] == 1){
+                    grid[x][y-1] = 2;
+                    q.push({x,y-1});
+                    fresh--;
+                }
             }
-            if(!q.empty())level++;
+            if(!q.empty())minutes++;
         }
-
-        for(auto x : grid){
-            for(auto y : x){
-                if(y == 1)return -1;
-            }
-        }
-
-        return level == -1 ? 0 : level;
+        return fresh > 0 ? -1 : minutes;
     }
 };
