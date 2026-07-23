@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SatwikMushini/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SatwikMushini/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SatwikMushini/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0661-image-smoother](https://github.com/SatwikMushini/LeetCode/tree/master/0661-image-smoother) |
 | [0735-asteroid-collision](https://github.com/SatwikMushini/LeetCode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/SatwikMushini/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/SatwikMushini/LeetCode/tree/master/0860-lemonade-change) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/SatwikMushini/LeetCode/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/SatwikMushini/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/SatwikMushini/LeetCode/tree/master/0200-number-of-islands) |
+| [0661-image-smoother](https://github.com/SatwikMushini/LeetCode/tree/master/0661-image-smoother) |
 | [1162-as-far-from-land-as-possible](https://github.com/SatwikMushini/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/SatwikMushini/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/SatwikMushini/LeetCode/tree/master/1260-shift-2d-grid) |
