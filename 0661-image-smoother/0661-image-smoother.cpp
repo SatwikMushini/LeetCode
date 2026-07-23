@@ -6,17 +6,18 @@ public:
     vector<vector<int>> imageSmoother(vector<vector<int>>& img) {
         int m = img.size(), n = img[0].size();
         vector<vector<int>>ans(m, vector<int>(n));
-        vector<vector<int>>dirs = {{-1,-1}, {-1,0}, {-1,1}, {0,1}, {1,1}, {1,0}, {1,-1}, {0,-1}};
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
-                int neighbors = 1, sum = img[i][j];
-                for(auto dir: dirs){
-                    if(isValid(i+dir[0], j+dir[1], m, n)){
-                        neighbors++;
-                        sum += img[i+dir[0]][j+dir[1]];
-                    }
-                }
-                ans[i][j] = sum / neighbors;
+                int tot = 1, sum = img[i][j];
+                if(i>0 && j>0 ){ sum+=img[i-1][j-1]; tot++;}
+                if( i>0) { sum+=img[i-1][j];tot++;}
+                if(i>0 && j+1 < n){ sum+=img[i-1][j+1];tot++;}
+                if(j-1 >= 0 ){ sum+=img[i][j-1];tot++;}
+                if(j+1 <n ){sum+=img[i][j+1];tot++;}
+                if(i+1 < m && j-1>=0){sum+=img[i+1][j-1];tot++;}
+                if(i+1 <m ){sum+=img[i+1][j];tot++;}
+                if(i+1 <m && j+1 < n){sum+=img[i+1][j+1];tot++;}
+                ans[i][j] = sum / tot;
             }
         }
         return ans;
