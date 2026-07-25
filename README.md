@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/SatwikMushini/LeetCode/tree/master/0970-powerful-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SatwikMushini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SatwikMushini/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/SatwikMushini/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SatwikMushini/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SatwikMushini/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SatwikMushini/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/SatwikMushini/LeetCode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/SatwikMushini/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SatwikMushini/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3536-maximum-product-of-two-digits](https://github.com/SatwikMushini/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatwikMushini/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
