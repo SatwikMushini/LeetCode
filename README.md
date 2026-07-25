@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/SatwikMushini/LeetCode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/SatwikMushini/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/SatwikMushini/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0934-shortest-bridge](https://github.com/SatwikMushini/LeetCode/tree/master/0934-shortest-bridge) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SatwikMushini/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/SatwikMushini/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SatwikMushini/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/SatwikMushini/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/SatwikMushini/LeetCode/tree/master/0661-image-smoother) |
+| [0934-shortest-bridge](https://github.com/SatwikMushini/LeetCode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/SatwikMushini/LeetCode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/SatwikMushini/LeetCode/tree/master/1034-coloring-a-border) |
 | [1162-as-far-from-land-as-possible](https://github.com/SatwikMushini/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SatwikMushini/LeetCode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/SatwikMushini/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0934-shortest-bridge](https://github.com/SatwikMushini/LeetCode/tree/master/0934-shortest-bridge) |
 | [1034-coloring-a-border](https://github.com/SatwikMushini/LeetCode/tree/master/1034-coloring-a-border) |
 ## Breadth-First Search
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/SatwikMushini/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0542-01-matrix) |
 | [0752-open-the-lock](https://github.com/SatwikMushini/LeetCode/tree/master/0752-open-the-lock) |
+| [0934-shortest-bridge](https://github.com/SatwikMushini/LeetCode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/SatwikMushini/LeetCode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/SatwikMushini/LeetCode/tree/master/1034-coloring-a-border) |
 | [1162-as-far-from-land-as-possible](https://github.com/SatwikMushini/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
