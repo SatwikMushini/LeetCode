@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SatwikMushini/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SatwikMushini/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SatwikMushini/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/SatwikMushini/LeetCode/tree/master/0661-image-smoother) |
 | [0735-asteroid-collision](https://github.com/SatwikMushini/LeetCode/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/SatwikMushini/LeetCode/tree/master/0752-open-the-lock) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/SatwikMushini/LeetCode/tree/master/0060-permutation-sequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SatwikMushini/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0970-powerful-integers](https://github.com/SatwikMushini/LeetCode/tree/master/0970-powerful-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SatwikMushini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SatwikMushini/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/SatwikMushini/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/SatwikMushini/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SatwikMushini/LeetCode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SatwikMushini/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/SatwikMushini/LeetCode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/SatwikMushini/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SatwikMushini/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
