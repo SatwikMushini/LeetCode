@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SatwikMushini/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SatwikMushini/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-coloring-a-border](https://github.com/SatwikMushini/LeetCode/tree/master/1034-coloring-a-border) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/SatwikMushini/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/SatwikMushini/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SatwikMushini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/SatwikMushini/LeetCode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/SatwikMushini/LeetCode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/SatwikMushini/LeetCode/tree/master/1034-coloring-a-border) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/SatwikMushini/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/SatwikMushini/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/SatwikMushini/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/SatwikMushini/LeetCode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/SatwikMushini/LeetCode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/SatwikMushini/LeetCode/tree/master/1034-coloring-a-border) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/SatwikMushini/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 ## Union-Find
 |  |
