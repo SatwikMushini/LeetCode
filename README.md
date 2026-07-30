@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SatwikMushini/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatwikMushini/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatwikMushini/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatwikMushini/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SatwikMushini/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SatwikMushini/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SatwikMushini/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/SatwikMushini/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/SatwikMushini/LeetCode/tree/master/0860-lemonade-change) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SatwikMushini/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatwikMushini/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SatwikMushini/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0970-powerful-integers](https://github.com/SatwikMushini/LeetCode/tree/master/0970-powerful-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SatwikMushini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatwikMushini/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SatwikMushini/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SatwikMushini/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SatwikMushini/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
