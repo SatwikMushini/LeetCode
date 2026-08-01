@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SatwikMushini/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SatwikMushini/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/SatwikMushini/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SatwikMushini/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SatwikMushini/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatwikMushini/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SatwikMushini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatwikMushini/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SatwikMushini/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SatwikMushini/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SatwikMushini/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SatwikMushini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatwikMushini/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SatwikMushini/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SatwikMushini/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
