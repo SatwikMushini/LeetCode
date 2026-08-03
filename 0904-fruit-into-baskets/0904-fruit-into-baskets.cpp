@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int totalFruit(vector<int>& fruits) {
+        unordered_map<int,int> mpp;
+        int left = 0;
+        int maxi = INT_MIN;
+        for(int i = 0; i < fruits.size(); i++){
+            mpp[fruits[i]]++;
+            while(mpp.size() > 2){
+                mpp[fruits[left]]--; 
+                if(!mpp[fruits[left]])mpp.erase(fruits[left]);
+                left++;
+            }
+            maxi = max(maxi, i - left + 1);
+        }
+        return maxi;
+    }
+};
