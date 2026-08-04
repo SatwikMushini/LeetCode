@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SatwikMushini/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SatwikMushini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatwikMushini/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/SatwikMushini/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SatwikMushini/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SatwikMushini/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SatwikMushini/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatwikMushini/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SatwikMushini/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatwikMushini/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/SatwikMushini/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/SatwikMushini/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatwikMushini/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SatwikMushini/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
