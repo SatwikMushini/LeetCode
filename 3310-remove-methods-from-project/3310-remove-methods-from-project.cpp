@@ -2,14 +2,14 @@ class Solution {
 public:
     void dfs(int node, vector<vector<int>>& adjList, unordered_set<int>& sus){
         sus.insert(node);
-        for(auto nbr : adjList[node]){
+        for(auto &nbr : adjList[node]){
             if(!sus.count(nbr))dfs(nbr, adjList, sus);
         }
     }
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
         vector<vector<int>>adjList(n);
 
-        for(auto vec : invocations){            //O(n)
+        for(auto &vec : invocations){            //O(n)
             adjList[vec[0]].push_back(vec[1]);
         }
 
