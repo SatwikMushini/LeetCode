@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/SatwikMushini/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0934-shortest-bridge](https://github.com/SatwikMushini/LeetCode/tree/master/0934-shortest-bridge) |
 | [1034-coloring-a-border](https://github.com/SatwikMushini/LeetCode/tree/master/1034-coloring-a-border) |
+| [3310-remove-methods-from-project](https://github.com/SatwikMushini/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/SatwikMushini/LeetCode/tree/master/1034-coloring-a-border) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/SatwikMushini/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
+| [3310-remove-methods-from-project](https://github.com/SatwikMushini/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3310-remove-methods-from-project](https://github.com/SatwikMushini/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
