@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SatwikMushini/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SatwikMushini/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SatwikMushini/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0526-beautiful-arrangement](https://github.com/SatwikMushini/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SatwikMushini/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatwikMushini/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SatwikMushini/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/SatwikMushini/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0526-beautiful-arrangement](https://github.com/SatwikMushini/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/SatwikMushini/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1162-as-far-from-land-as-possible](https://github.com/SatwikMushini/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/SatwikMushini/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/SatwikMushini/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/SatwikMushini/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0526-beautiful-arrangement](https://github.com/SatwikMushini/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/SatwikMushini/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1219-path-with-maximum-gold](https://github.com/SatwikMushini/LeetCode/tree/master/1219-path-with-maximum-gold) |
 ## Tree
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SatwikMushini/LeetCode/tree/master/0078-subsets) |
+| [0526-beautiful-arrangement](https://github.com/SatwikMushini/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/SatwikMushini/LeetCode/tree/master/0784-letter-case-permutation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SatwikMushini/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
@@ -434,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/SatwikMushini/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/SatwikMushini/LeetCode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
