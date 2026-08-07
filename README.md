@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SatwikMushini/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatwikMushini/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SatwikMushini/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/SatwikMushini/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatwikMushini/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/SatwikMushini/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/SatwikMushini/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/SatwikMushini/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/SatwikMushini/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1219-path-with-maximum-gold](https://github.com/SatwikMushini/LeetCode/tree/master/1219-path-with-maximum-gold) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/SatwikMushini/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Tree
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0970-powerful-integers](https://github.com/SatwikMushini/LeetCode/tree/master/0970-powerful-integers) |
 | [1291-sequential-digits](https://github.com/SatwikMushini/LeetCode/tree/master/1291-sequential-digits) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/SatwikMushini/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SatwikMushini/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SatwikMushini/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Bit Manipulation
