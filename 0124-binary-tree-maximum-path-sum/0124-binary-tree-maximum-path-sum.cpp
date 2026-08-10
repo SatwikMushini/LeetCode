@@ -15,16 +15,11 @@ public:
     int dfs(TreeNode* root){
         if(!root)return 0;
 
-        int leftSum = dfs(root->left);
-        int rightSum = dfs(root->right);
+        int leftSum = max(0,dfs(root->left));
+        int rightSum = max(0,dfs(root->right));
 
-        if(leftSum > 0 || rightSum > 0){
-            maxSum = max(maxSum, root->val + max(leftSum, rightSum));
-        }
-
-        maxSum = max(maxSum, root->val); // for negative nums
         maxSum = max(maxSum, root->val + leftSum + rightSum);
-        return max(max(leftSum, rightSum) + root->val, root->val);
+        return root->val + max(leftSum, rightSum);
     }
     int maxPathSum(TreeNode* root) {
         dfs(root);
