@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/SatwikMushini/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1162-as-far-from-land-as-possible](https://github.com/SatwikMushini/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
+| [1510-stone-game-iv](https://github.com/SatwikMushini/LeetCode/tree/master/1510-stone-game-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SatwikMushini/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0970-powerful-integers](https://github.com/SatwikMushini/LeetCode/tree/master/0970-powerful-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SatwikMushini/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1510-stone-game-iv](https://github.com/SatwikMushini/LeetCode/tree/master/1510-stone-game-iv) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SatwikMushini/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/SatwikMushini/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatwikMushini/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -478,8 +480,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/SatwikMushini/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1510-stone-game-iv](https://github.com/SatwikMushini/LeetCode/tree/master/1510-stone-game-iv) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/SatwikMushini/LeetCode/tree/master/0778-swim-in-rising-water) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SatwikMushini/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SatwikMushini/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SatwikMushini/LeetCode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SatwikMushini/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
