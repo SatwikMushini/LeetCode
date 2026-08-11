@@ -22,13 +22,14 @@ public:
         }
         queue<pair<int,int>>q;
         set<pair<int,int>>seen;
-        
+
         if(board[0][0] != -1){
             q.push(pos[board[0][0]]);
             seen.insert(pos[board[0][0]]);
         }
         else{
-            q.emplace(0,0); seen.insert({0,0});
+            q.emplace(0,0);
+            seen.insert({0,0});
         }
 
         int cnt = 0;
@@ -44,17 +45,16 @@ public:
                         i++;
                         j = 0;
                     }
-                    if(check(i,j,n)){
-                        if(board[i][j] != -1){
-                            if(!seen.count(pos[board[i][j]])){
-                                q.push(pos[board[i][j]]);
-                                seen.insert(pos[board[i][j]]);
-                            }
+                    if(i >= n)break;
+                    if(board[i][j] != -1){
+                        if(!seen.count(pos[board[i][j]])){
+                            q.push(pos[board[i][j]]);
+                            seen.insert(pos[board[i][j]]);
                         }
-                        else{
-                            if(!seen.count({i,j})){
-                                q.emplace(i,j); seen.insert({i, j});
-                            }
+                    }
+                    else{
+                        if(!seen.count({i,j})){
+                            q.emplace(i,j); seen.insert({i, j});
                         }
                     }
                 }
