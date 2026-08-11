@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SatwikMushini/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SatwikMushini/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/SatwikMushini/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0909-snakes-and-ladders](https://github.com/SatwikMushini/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0930-binary-subarrays-with-sum](https://github.com/SatwikMushini/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0934-shortest-bridge](https://github.com/SatwikMushini/LeetCode/tree/master/0934-shortest-bridge) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SatwikMushini/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/SatwikMushini/LeetCode/tree/master/0661-image-smoother) |
 | [0778-swim-in-rising-water](https://github.com/SatwikMushini/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0909-snakes-and-ladders](https://github.com/SatwikMushini/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/SatwikMushini/LeetCode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/SatwikMushini/LeetCode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/SatwikMushini/LeetCode/tree/master/1034-coloring-a-border) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0542-01-matrix) |
 | [0752-open-the-lock](https://github.com/SatwikMushini/LeetCode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/SatwikMushini/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0909-snakes-and-ladders](https://github.com/SatwikMushini/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/SatwikMushini/LeetCode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/SatwikMushini/LeetCode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/SatwikMushini/LeetCode/tree/master/1034-coloring-a-border) |
