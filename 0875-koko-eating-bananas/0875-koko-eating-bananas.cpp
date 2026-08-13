@@ -1,11 +1,11 @@
 class Solution {
 public:
     bool check(int k, vector<int>& piles, int h){
-        int hrs = 0;
+        long long hrs = 0;
         for(auto &x : piles){
-            hrs += (x + k - 1) / k;
+            hrs += 1ll* (x + k - 1) / k;
         }
-        return hrs <= h;
+        return hrs <= 1ll*h;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
         int low = 1, high = 1e9;
