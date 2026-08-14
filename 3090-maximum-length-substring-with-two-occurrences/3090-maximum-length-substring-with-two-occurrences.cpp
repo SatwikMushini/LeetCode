@@ -2,12 +2,12 @@ class Solution {
 public:
     int maximumLengthSubstring(string s) {
         int left = 0;
-        unordered_map<char,int>freq;
+        int freq[26] = {0};
         int maxLen = 2;
         for(int i = 0; i < s.size(); i++){
-            freq[s[i]]++;
-            while(freq[s[i]] == 3){
-                freq[s[left]]--;
+            freq[s[i] - 'a']++;
+            while(freq[s[i] - 'a'] == 3){
+                freq[s[left] - 'a']--;
                 left++;
             }
             maxLen = max(maxLen, i - left + 1);
