@@ -6,7 +6,7 @@ public:
         sort(rs.begin(), rs.end());
 
         vector<bool>res(11, false); //reserved
-        unordered_set<int>rows;
+        int rowsCnt = 0;
         for(int i = 0; i < rs.size()-1; i++){
             if(rs[i][0] != rs[i+1][0]){
                 res[rs[i][1]] = true;
@@ -19,12 +19,12 @@ public:
                 else if(seat2 || seat4 || seat6)max4groups++;
 
                 fill(res.begin(), res.end(), false);
-                rows.insert(rs[i][0]);
+                rowsCnt++;
             }
             else res[rs[i][1]] = true;
         }
 
-        max4groups += (n - rows.size()) * 2;
+        max4groups += (n - rowsCnt) * 2;
         return max4groups;
     }
 };
