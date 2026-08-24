@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/SatwikMushini/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/SatwikMushini/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SatwikMushini/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SatwikMushini/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1034-coloring-a-border](https://github.com/SatwikMushini/LeetCode/tree/master/1034-coloring-a-border) |
 | [1052-grumpy-bookstore-owner](https://github.com/SatwikMushini/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/SatwikMushini/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/SatwikMushini/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/SatwikMushini/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SatwikMushini/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SatwikMushini/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/SatwikMushini/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
