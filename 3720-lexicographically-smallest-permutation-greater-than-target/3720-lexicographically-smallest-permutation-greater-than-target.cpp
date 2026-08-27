@@ -1,9 +1,10 @@
 class Solution {
 public:
     string lexGreaterPermutation(string s, string target) {
-        map<char,int>mpp;
+        unordered_map<char,int>mpp;
         for(auto x : s)mpp[x]++;
 
+        //putting chars from target which are present in s.
         string ans = "";
         for(auto x : target){
             if(mpp.count(x)){
@@ -17,16 +18,12 @@ public:
                     if(key > x)c = min(c, key);
                 }
                 if(c != 'z'+1){
-                    ans += c;
+                    ans += c;           //putting the just greatest char if found
                     mpp[c]--;
                     if(mpp[c] == 0)mpp.erase(c);
                 }
                 break;
             }
-        }
-        if(ans.empty()){
-            sort(s.begin(),s.end());
-            return (s > target) ?  s : "";
         }
 
         string remaining = "";
@@ -36,13 +33,13 @@ public:
             }
         }
         sort(remaining.begin(), remaining.end());
-        if(ans.back() > target[ans.size()-1]){
+        if(!ans.empty() && ans.back() > target[ans.size()-1]){ //if just greater char found
            ans += remaining; return ans;
         }
 
         int matchedSize = ans.size();
         ans += remaining;
-        for(int i = matchedSize-1; i >= 0; i--){
+        for(int i = matchedSize-1; i >= 0; i--){ //else loop back to front and find the just greater
             char c = 'z'+1;
             int minIdx = -1;
             for(int j = i+1; j < ans.size(); j++){
@@ -51,28 +48,12 @@ public:
                     minIdx = j;
                 }
             }
-            if(minIdx != -1){
+            if(minIdx != -1){           //if found 
                 swap(ans[i], ans[minIdx]);
                 sort(ans.begin()+i+1, ans.end());
                 return ans;
             }
         }
         return "";
-
-        // if(ans <= target){
-        //     for(int i = ans.size()-1; i >= 1; i--){
-        //         if(ans[i] > ans[i-1]){
-        //             int mini = i;
-        //             for(int j = i; j < ans.size(); j++){
-        //                 if(ans[i-1] < ans[j] && ans[mini] > ans[j])mini = j;
-        //             }
-        //             swap(ans[i-1], ans[mini]); 
-        //             sort(ans.begin()+i, ans.end());
-        //             break;
-        //         }
-        //     }
-        // }
-        // if(ans <= target)return "";
-        // return ans;
     }
 };
