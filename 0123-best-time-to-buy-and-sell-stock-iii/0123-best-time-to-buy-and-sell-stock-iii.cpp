@@ -13,8 +13,6 @@ public:
         for(int i = n-2; i >= 0; i--){
             gp[i] = max(gp[i], gp[i+1]);
         }
-
-        for(auto x : gp)cout << x << " ";
         
         int mini = prices[0];
         int ans = gp[0];
