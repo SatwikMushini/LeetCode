@@ -10,23 +10,20 @@ public:
 
         vector<vector<bool>>vis(n, vector<bool>(n, false));
         vector<pair<int,int>>dir = {{-1,-1}, {-1,0}, {-1,1}, {0,1}, {1,1}, {1,0}, {1,-1}, {0,-1}};
-
         queue<pair<int,int>>q;
+        vis[0][0] = true;
         q.emplace(0,0);
-
         int level = 1;
-
         while(!q.empty()){
             int qs = q.size();
             while(qs--){
                 auto [x,y] = q.front(); q.pop();
-                if(!isValid(x,y,n) || grid[x][y] == 1 || vis[x][y]){
-                    continue;
-                }
                 if(x == n-1 && y == n-1)return level;
-                vis[x][y] = true;
                 for(auto &[i,j]: dir){
-                    q.emplace(x+i, y+j);
+                    if(isValid(x+i,y+j,n) && grid[x+i][y+j] == 0 && !vis[x+i][y+j]){
+                        vis[x+i][y+j] = true;
+                        q.emplace(x+i, y+j);
+                    }
                 }
             }
             level++;
