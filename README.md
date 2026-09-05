@@ -640,4 +640,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/SatwikMushini/LeetCode/tree/master/0752-open-the-lock) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
