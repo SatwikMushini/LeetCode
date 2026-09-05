@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SatwikMushini/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatwikMushini/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/SatwikMushini/LeetCode/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/SatwikMushini/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/SatwikMushini/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/SatwikMushini/LeetCode/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/SatwikMushini/LeetCode/tree/master/0752-open-the-lock) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/SatwikMushini/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/SatwikMushini/LeetCode/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/SatwikMushini/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/SatwikMushini/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0909-snakes-and-ladders](https://github.com/SatwikMushini/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/SatwikMushini/LeetCode/tree/master/0934-shortest-bridge) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0419-battleships-in-a-board](https://github.com/SatwikMushini/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/SatwikMushini/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/SatwikMushini/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/SatwikMushini/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0934-shortest-bridge](https://github.com/SatwikMushini/LeetCode/tree/master/0934-shortest-bridge) |
 | [1034-coloring-a-border](https://github.com/SatwikMushini/LeetCode/tree/master/1034-coloring-a-border) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0433-minimum-genetic-mutation](https://github.com/SatwikMushini/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/SatwikMushini/LeetCode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/SatwikMushini/LeetCode/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/SatwikMushini/LeetCode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/SatwikMushini/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0909-snakes-and-ladders](https://github.com/SatwikMushini/LeetCode/tree/master/0909-snakes-and-ladders) |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SatwikMushini/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/SatwikMushini/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/SatwikMushini/LeetCode/tree/master/0778-swim-in-rising-water) |
 ## Graph Theory
 |  |
