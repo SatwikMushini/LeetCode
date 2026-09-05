@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SatwikMushini/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/SatwikMushini/LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/SatwikMushini/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SatwikMushini/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SatwikMushini/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SatwikMushini/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SatwikMushini/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SatwikMushini/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SatwikMushini/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/SatwikMushini/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/SatwikMushini/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/SatwikMushini/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/SatwikMushini/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/SatwikMushini/LeetCode/tree/master/0344-reverse-string) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SatwikMushini/LeetCode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/SatwikMushini/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/SatwikMushini/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/SatwikMushini/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SatwikMushini/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SatwikMushini/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SatwikMushini/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SatwikMushini/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SatwikMushini/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/SatwikMushini/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/SatwikMushini/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/SatwikMushini/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SatwikMushini/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SatwikMushini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SatwikMushini/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SatwikMushini/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
