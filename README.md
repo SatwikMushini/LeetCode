@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SatwikMushini/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SatwikMushini/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/SatwikMushini/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/SatwikMushini/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SatwikMushini/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SatwikMushini/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SatwikMushini/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SatwikMushini/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/SatwikMushini/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/SatwikMushini/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/SatwikMushini/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/SatwikMushini/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/SatwikMushini/LeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/SatwikMushini/LeetCode/tree/master/0402-remove-k-digits) |
