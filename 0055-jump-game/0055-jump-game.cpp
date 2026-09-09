@@ -1,24 +1,11 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-        int n = nums.size();
-        if(n == 1)return true;
-        if(nums[0] == 0)return false;
-        vector<bool>reachEnd(n, false);
-        reachEnd[n-1] = true;
-        for(int i = n-2; i >= 0; i--){
-            if(i + nums[i] >= n-1){
-                reachEnd[i] = true;
-            }
-            else{
-                for(int j = i+1; j <= i+nums[i]; j++){
-                    if(reachEnd[j]){
-                        reachEnd[i] = true;
-                        break;
-                    }
-                }
-            }
+        int last = nums[0];
+        for(int i = 1; i < nums.size(); i++){
+            if(last < i)return false;
+            last = max(last, i + nums[i]);
         }
-        return reachEnd[0];
+        return true;
     }
 };
