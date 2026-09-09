@@ -33,7 +33,7 @@ public:
                         q.push(x); vis[x] = 1;
                     }
                 }
-                pos[arr[currPos]].clear();
+                pos[arr[currPos]].clear(); // We don't need to push these indicess again into the queue.
             }
             jumps++;
         }
