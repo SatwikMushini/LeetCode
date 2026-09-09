@@ -1,16 +1,19 @@
 class Solution {
 public:
-    int giveMin(int idx, vector<int>& nums, vector<int>& dp){
-        if(idx >= nums.size()-1)return 0;
-        if(dp[idx] != -1)return dp[idx];
-        int mini = 1e5;
-        for(int i = 1; i <= nums[idx]; i++){
-            mini = min(mini, 1+giveMin(idx+i, nums, dp));
-        }
-        return dp[idx] = mini;
-    }
     int jump(vector<int>& nums) {
-        vector<int>dp(nums.size(), -1);
-        return giveMin(0, nums, dp);
+        int n = nums.size();
+        vector<int>dp(n, 1e9);
+        dp[n-1] = 0;
+
+        for(int i = n-2; i >= 0; i--){
+            int mini = 1e9;
+            for(int j = i+1; j < n; j++){
+                if(j > i + nums[i])break;
+                mini = min(mini, dp[j]);
+            }
+            dp[i] = mini + 1;
+        }
+        return dp[0];
+
     }
 };
