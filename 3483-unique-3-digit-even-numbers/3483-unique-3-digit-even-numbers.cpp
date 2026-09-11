@@ -1,26 +1,27 @@
 class Solution {
 public:
-    void give(string s, auto& freq, auto& ds){
-        if(s.size() == 3 && (s.back()-'0') % 2 == 0){
-            ds.insert(s);
-            return;
-        }
-        for(int i = 0; i < 10; i++){
-            if(!freq[i])continue;
-            if(s.empty() && i == 0)continue;
-            
-            s += i + '0';
-            freq[i]--;
-            give(s, freq, ds);
-            freq[i]++;
-            s.pop_back();
-        }
-    }
     int totalNumbers(vector<int>& digits) {
         vector<int>freq(10, 0);
         for(auto x : digits)freq[x]++;
-        unordered_set<string>ds;
-        give("", freq, ds);
-        return ds.size();
+        
+        int cnt = 0;
+        for(int i = 1; i < 10; i++){
+            if(freq[i] == 0)continue;
+            freq[i]--;
+
+            for(int j = 0; j < 10; j++){
+                if(!freq[j])continue;
+                freq[j]--;
+
+                for(int k = 0; k < 10; k+=2){
+                    if(!freq[k])continue;
+                    cnt++;
+                }
+                freq[j]++;
+            }
+            freq[i]++;
+        }
+
+        return cnt;
     }
 };
