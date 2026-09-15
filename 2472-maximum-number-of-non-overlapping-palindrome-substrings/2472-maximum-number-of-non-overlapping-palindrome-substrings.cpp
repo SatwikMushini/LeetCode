@@ -1,40 +1,29 @@
 class Solution {
 public:
-    bool checkPali(string& s, int i, int j){
-        int a = i, b = j;
+    int dp[2001];
+    bool isPali(string& s, int a, int b){
         while(a <= b){
             if(s[a] != s[b])return false;
             a++; b--;
         }
         return true;
     }
+    int give(int idx, string& s, int k){
+        if(idx == s.size())return 0;
+        if(dp[idx] != -1)return dp[idx];
+
+        int maxi = give(idx+1, s, k);
+        for(int i = idx + k - 1; i < s.size(); i++){
+            if(isPali(s, idx, i)){
+                maxi = max(maxi, 1+give(i+1, s, k));
+            }
+        }
+        
+        return dp[idx] = maxi;
+    }
     int maxPalindromes(string s, int k) {
         if(k == 1)return s.size();
-
-        vector<pair<int,int>>p;
-        int n = s.size();
-
-        for(int i = 0; i < n; i++){
-            for(int j = i; j < n; j++){
-                if(j-i+1 >= k && checkPali(s, i, j))p.push_back({i, j});
-            }
-        }
-
-        if(p.empty())return 0;
-
-        sort(p.begin(), p.end(), [](const pair<int,int>&a, const pair<int,int>&b){
-            return a.second < b.second;
-        });
-
-        int back = p[0].second;
-        int cnt = 1;
-
-        for(int i = 1; i < p.size(); i++){
-            if(p[i].first > back){
-                cnt++;
-                back = p[i].second;
-            }
-        }
-        return cnt;
+        memset(dp, -1, sizeof(dp));
+        return give(0, s, k);
     }
 };
