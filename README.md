@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SatwikMushini/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SatwikMushini/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0752-open-the-lock](https://github.com/SatwikMushini/LeetCode/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/SatwikMushini/LeetCode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/SatwikMushini/LeetCode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/SatwikMushini/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SatwikMushini/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/SatwikMushini/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0537-complex-number-multiplication](https://github.com/SatwikMushini/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0752-open-the-lock](https://github.com/SatwikMushini/LeetCode/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/SatwikMushini/LeetCode/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/SatwikMushini/LeetCode/tree/master/0784-letter-case-permutation) |
 | [0940-distinct-subsequences-ii](https://github.com/SatwikMushini/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/SatwikMushini/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SatwikMushini/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SatwikMushini/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SatwikMushini/LeetCode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/SatwikMushini/LeetCode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/SatwikMushini/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/SatwikMushini/LeetCode/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/SatwikMushini/LeetCode/tree/master/1029-two-city-scheduling) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/SatwikMushini/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/SatwikMushini/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/SatwikMushini/LeetCode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/SatwikMushini/LeetCode/tree/master/0763-partition-labels) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SatwikMushini/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatwikMushini/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4026-maximum-gap-between-stations](https://github.com/SatwikMushini/LeetCode/tree/master/4026-maximum-gap-between-stations) |
