@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/SatwikMushini/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatwikMushini/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SatwikMushini/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SatwikMushini/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/SatwikMushini/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SatwikMushini/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/SatwikMushini/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SatwikMushini/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatwikMushini/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SatwikMushini/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SatwikMushini/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/SatwikMushini/LeetCode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatwikMushini/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/SatwikMushini/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/SatwikMushini/LeetCode/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/SatwikMushini/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/SatwikMushini/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SatwikMushini/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/SatwikMushini/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SatwikMushini/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SatwikMushini/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/SatwikMushini/LeetCode/tree/master/0846-hand-of-straights) |
 | [1029-two-city-scheduling](https://github.com/SatwikMushini/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/SatwikMushini/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SatwikMushini/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SatwikMushini/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/SatwikMushini/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SatwikMushini/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
