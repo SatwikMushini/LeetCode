@@ -1,12 +1,6 @@
 typedef long long ll;
 class Solution {
 public:
-    void printpq(auto pq) {
-        while(!pq.empty()) {
-            auto [diff, i] = pq.top(); pq.pop();
-            cout << diff << " " << i << endl;
-        }
-    }
     long long minSumSquareDiff(vector<int>& nums1, vector<int>& nums2, int k1, int k2) {
         unordered_map<int,int>freqs;
         for(int i = 0; i < nums1.size(); i++){
@@ -55,8 +49,7 @@ public:
             if(diff > 0 && k > 0)
                 pq.push({diff - 1, k});
         }
-        
-        printpq(pq);
+
         ll ans = 0;
         while(!pq.empty()) {
             auto [diff, freq] = pq.top(); pq.pop();
