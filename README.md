@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatwikMushini/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SatwikMushini/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SatwikMushini/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SatwikMushini/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/SatwikMushini/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SatwikMushini/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/SatwikMushini/LeetCode/tree/master/3905-multi-source-flood-fill) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/SatwikMushini/LeetCode/tree/master/1510-stone-game-iv) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SatwikMushini/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/SatwikMushini/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SatwikMushini/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SatwikMushini/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SatwikMushini/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SatwikMushini/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SatwikMushini/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3905-multi-source-flood-fill](https://github.com/SatwikMushini/LeetCode/tree/master/3905-multi-source-flood-fill) |
 ## Queue
 |  |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SatwikMushini/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SatwikMushini/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SatwikMushini/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SatwikMushini/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
