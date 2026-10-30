@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/SatwikMushini/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SatwikMushini/LeetCode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/SatwikMushini/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0290-word-pattern](https://github.com/SatwikMushini/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/SatwikMushini/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/SatwikMushini/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/SatwikMushini/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/SatwikMushini/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/SatwikMushini/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/SatwikMushini/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0290-word-pattern](https://github.com/SatwikMushini/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/SatwikMushini/LeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/SatwikMushini/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SatwikMushini/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
