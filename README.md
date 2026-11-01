@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/SatwikMushini/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/SatwikMushini/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SatwikMushini/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SatwikMushini/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/SatwikMushini/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SatwikMushini/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SatwikMushini/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SatwikMushini/LeetCode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/SatwikMushini/LeetCode/tree/master/0060-permutation-sequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SatwikMushini/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0537-complex-number-multiplication](https://github.com/SatwikMushini/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatwikMushini/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0970-powerful-integers](https://github.com/SatwikMushini/LeetCode/tree/master/0970-powerful-integers) |
