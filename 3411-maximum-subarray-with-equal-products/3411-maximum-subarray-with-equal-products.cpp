@@ -19,5 +19,7 @@ public:
             }
         }
         return ans;
+
+        // If the prod is already >= 2520 * gcd *lcm, then you could skip the further. Because gcd would be always become smaller and smaller, and lcm between all numbers <=10 would be never bigger than 2520.
     }
 };
