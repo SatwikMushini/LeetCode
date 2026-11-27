@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/SatwikMushini/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/SatwikMushini/LeetCode/tree/master/3905-multi-source-flood-fill) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SatwikMushini/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SatwikMushini/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SatwikMushini/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/SatwikMushini/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SatwikMushini/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SatwikMushini/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SatwikMushini/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SatwikMushini/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SatwikMushini/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/SatwikMushini/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4026-maximum-gap-between-stations](https://github.com/SatwikMushini/LeetCode/tree/master/4026-maximum-gap-between-stations) |
 ## Matrix
 |  |
